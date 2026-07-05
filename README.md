@@ -19,7 +19,7 @@ Créé  par petit empereur, pour améliorer votre automatisation WhatsApp
 | Réseau | Lien |
 |--------|------|
 | 📱 **WhatsApp** | `+237 6 51 53 91 95` |
-| 🐙 **GitHub** | [armeldjokam10-max](https://github.com/armeldjokam10-max) |
+| 🐙 **GitHub** | [armeldjokam10-max](https://github.com/armeldjokam10-max/EmperorBot-WhatsApp) |
 | 💬 **Discord** | [Rejoindre le serveur](https://discord.gg/jJSVhjEtX) |
 
 ---
