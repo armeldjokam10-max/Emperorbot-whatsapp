@@ -1,0 +1,107 @@
+module.exports = {
+    // ===== BLAGUES =====
+    blagues: [
+        "Pourquoi les plongeurs plongent-ils toujours en arrière ? Parce que sinon ils tombent dans le bateau !",
+        "Que dit une mère à son fils quand il a un bouchon dans l'oreille ? Rien, elle n'a rien dit...",
+        "Pourquoi les éléphants ne peuvent-ils pas utiliser l'ordinateur ? Parce qu'ils ont peur de la souris !",
+        "Quel est le comble pour un électricien ? De ne pas être au courant.",
+        "Pourquoi les poules traversent-elles la route ? Pour arriver de l'autre côté !",
+        "Que fait une fraise sur un cheval ? Elle fait de la confiture !",
+        "Pourquoi les poissons ne jouent-ils jamais au poker ? Parce qu'ils ont peur des requins !"
+    ],
+
+    // ===== CITATIONS =====
+    citations: [
+        "La vie est ce qui arrive pendant que vous faites d'autres plans. - John Lennon",
+        "L'important n'est pas la chute, mais l'atterrissage. - Proverbe africain",
+        "Le succès, c'est d'aller d'échec en échec sans perdre son enthousiasme. - Churchill",
+        "Dans la vie, on ne regrette que ce qu'on n'a pas fait. - Proverbe",
+        "La meilleure façon de prédire l'avenir, c'est de le créer. - Peter Drucker"
+    ],
+
+    // ===== DEVINETTES =====
+    devinettes: [
+        "Qu'est-ce qui est jaune et qui attend ? → Jonathan !",
+        "Quel est l'animal qui a le plus de dents ? → La petite souris !",
+        "Qu'est-ce qui a des dents mais ne mord jamais ? → Un peigne !",
+        "Pourquoi les girafes ont-elles un long cou ? → Pour pouvoir lécher leurs oreilles !"
+    ],
+
+    // ===== CHARADES =====
+    charades: [
+        "Mon premier est un animal, mon second est un fruit, mon tout est un pays. → CHAT + MÛRE = TCHAD",
+        "Mon premier est un oiseau, mon second est une boisson, mon tout est un pays. → PIE + NEA = PÉROU"
+    ],
+
+    // ===== PRIERES =====
+    prieres: [
+        "Seigneur, guide mes pas aujourd'hui, éclaire mon chemin de ta lumière.",
+        "Dieu tout-puissant, donne-moi la force d'affronter les défis de ce jour.",
+        "Que ta paix règne dans mon cœur et dans celui de mes proches. Amen."
+    ],
+
+    // ===== POEMES =====
+    poemes: [
+        {
+            titre: "L'Aube Nouvelle",
+            contenu: "Le soleil se lève sur la ville,\nLes oiseaux chantent leur refrain,\nLa vie s'éveille doucement,\nEt le jour commence son chemin."
+        },
+        {
+            titre: "La Paix Intérieure",
+            contenu: "Dans le silence de ton cœur,\nLa paix trouve sa demeure,\nLaisse tes soucis s'envoler,\nComme des feuilles au vent léger."
+        }
+    ],
+
+    // ===== HISTOIRES =====
+    histoires: [
+        "Il était une fois, dans un village lointain, un jeune garçon qui rêvait de devenir chevalier...",
+        "Un jour, une petite fille trouva une lampe magique dans une grotte...",
+        "Dans la forêt enchantée, une fée gardait un secret millénaire..."
+    ],
+
+    // ===== PROVERBES =====
+    proverbes: [
+        "Petit à petit, l'oiseau fait son nid.",
+        "Qui veut voyager loin ménage sa monture.",
+        "L'union fait la force.",
+        "Chaque chose en son temps.",
+        "Mieux vaut tard que jamais."
+    ],
+
+    // ===== ANAGRAMMES =====
+    anagrammes: [
+        { mot: "CHIEN", anagramme: "NICHE" },
+        { mot: "GARDE", anagramme: "DRAGE" },
+        { mot: "MAISON", anagramme: "MONAIS" },
+        { mot: "TABLE", anagramme: "BALET" },
+        { mot: "CARTE", anagramme: "TRACE" },
+        { mot: "VOITURE", anagramme: "TROUVEI" }
+    ],
+
+    // ===== DEFIS =====
+    defis: [
+        "Donne-moi un pays avec la lettre A",
+        "Donne-moi un film avec la lettre F",
+        "Donne-moi un nom d'artiste avec la lettre K",
+        "Donne-moi une ville avec la lettre S"
+    ],
+
+    // ===== ANIMES POUR IMPOSTEUR =====
+    animes: [
+        {
+            nom: "Naruto",
+            personnages: ["Naruto", "Sasuke", "Sakura", "Kakashi"],
+            imposteurs: ["Goku", "Luffy", "Ichigo", "Eren"]
+        },
+        {
+            nom: "One Piece",
+            personnages: ["Luffy", "Zoro", "Nami", "Sanji"],
+            imposteurs: ["Naruto", "Sasuke", "Goku", "Vegeta"]
+        },
+        {
+            nom: "Dragon Ball",
+            personnages: ["Goku", "Vegeta", "Piccolo", "Gohan"],
+            imposteurs: ["Naruto", "Luffy", "Ichigo", "Saitama"]
+        }
+    ]
+};
