@@ -105,7 +105,7 @@
 
 ## 📊 STATUT DU PROJET
 
-🟢 **En ligne** - Version 2.0.0  
+🟢 **En ligne** - Version 1.0.0  
 📋 **Commandes** : 60+  
 🎮 **Jeux** : 6  
 👥 **Utilisateurs** : Actif
